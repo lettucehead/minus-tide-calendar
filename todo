@@ -1,0 +1,42 @@
+Minus Tides
+Part 1: Hours
+- Select rows where tide passes below or above a threshold, like from >0.3 to <=0.3 or <=0.3 to >0.3
+- Plot the times when the tide is below this threshold
+- Make a table of these times
+- Rows are hours, so this is a table of hours.
+
+Part 2: Days (Sessions)
+- Select days where there are minus tides.
+- Minus tides intersecting midnight should include both days.
+- Plot and tabulate.
+
+Part 3: Weeks (Cycles)
+- Select days with NO minus tides
+- Make these days the "weekends"
+- Plot and tab per cycle w the lowest tide of the day + duration of sub-threshold minus tide being the two variables of interest
+
+Part 3: Fortnights
+Part 4: Seasons
+
+these will have to wait for...
+
+Moon Movements
+Part 1: Lunation/Synodic Month/Full-New Cycle
+- Get the new, quarter (50%), and full moon dates
+Part 2: Perigee/Anomalistic Month/Close-Far Cycle
+- Get the dates of perigee and apogee
+Part 3: Equator/Draconitic Month/Declinational Cycle
+- Get the dates of greatest, least, and zero declination
+
+Sun Movements
+- This one should be pretty self-explanatory:
+- Get the distance and the declination
+
+Astrology
+- Use Astrodienst's ephemeris for Western and Sidereal positions of the sun and moon.
+
+Stargazing
+- Use JPL's ephemeris for Earth
+- Look up Fall to Spring minus tide session times in a table of star positions to see what's visible where, when
+
+Extra credit: Use Bernoulli's equation to calculate the volume of the tub and time how long it takes to refill, and see if this is variable, and see what it varies with
